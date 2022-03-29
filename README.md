@@ -27,6 +27,8 @@ This MITxPRO project, MBTA bus data is used to determine the stops between Harva
 <!-- Video -->
 <a name="video"></a>
 ## Simulation Video
+https://user-images.githubusercontent.com/68394599/160540247-7ddae2e4-89f5-4ca1-bf78-4a08dbfcd781.mp4
+
 
 
 <!-- Link Live Demo -->
